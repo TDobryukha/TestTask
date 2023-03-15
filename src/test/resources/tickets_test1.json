@@ -1,0 +1,135 @@
+﻿{
+  "tickets": [
+    {
+      "origin": "VVO",
+      "origin_name": "Владивосток",
+      "destination": "TLV",
+      "destination_name": "Тель-Авив",
+      "departure_date": "12.05.18",
+      "departure_time": "16:20",
+      "arrival_date": "12.05.18",
+      "arrival_time": "22:10",
+      "carrier": "TK",
+      "stops": 3,
+      "price": 12400
+    },
+    {
+      "origin": "VVO",
+      "origin_name": "Владивосток",
+      "destination": "TLV",
+      "destination_name": "Тель-Авив",
+      "departure_date": "12.05.18",
+      "departure_time": "17:20",
+      "arrival_date": "12.05.18",
+      "arrival_time": "23:50",
+      "carrier": "S7",
+      "stops": 1,
+      "price": 13100
+    },
+    {
+      "origin": "TLV",
+      "origin_name": "Тель-Авив",
+      "destination": "VVO",
+      "destination_name": "Владивосток",
+      "departure_date": "12.05.18",
+      "departure_time": "17:30",
+      "arrival_date": "12.05.18",
+      "arrival_time": "23:50",
+      "carrier": "TK",
+      "stops": 1,
+      "price": 20000
+    },
+    {
+      "origin": "TLV",
+      "origin_name": "Тель-Авив",
+      "destination": "VVS",
+      "destination_name": "Владивосток",
+      "departure_date": "12.05.18",
+      "departure_time": "23:50",
+      "arrival_date": "13.05.18",
+      "arrival_time": "4:10",
+      "carrier": "TK",
+      "stops": 1,
+      "price": 20000
+    },
+    {
+      "origin": "AAA",
+      "origin_name": null,
+      "destination": "BBB",
+      "destination_name": null,
+      "departure_date": "13.05.18",
+      "departure_time": "4:10",
+      "arrival_date": "12.05.18",
+      "arrival_time": "23:50",
+      "carrier": "TK",
+      "stops": 1,
+      "price": 20000
+    },
+    {
+      "origin": "AAA",
+      "origin_name": null,
+      "destination": "BBB",
+      "destination_name": null,
+      "departure_date": "12.05.18",
+      "departure_time": "23:50",
+      "arrival_date": "13.05.18",
+      "arrival_time": "04:10",
+      "carrier": "TK",
+      "stops": 1,
+      "price": 20000
+    },
+    {
+      "origin": "CCC",
+      "origin_name": null,
+      "destination": "DDD",
+      "destination_name": null,
+      "departure_date": null,
+      "departure_time": null,
+      "arrival_date": null,
+      "arrival_time": null,
+      "carrier": "TK",
+      "stops": 1,
+      "price": 20000
+    },
+    {
+      "origin": "EEE",
+      "origin_name": null,
+      "destination": "FFF",
+      "destination_name": null,
+      "departure_date": "13.05.18",
+      "departure_time": "23:50",
+      "arrival_date": "12.05.18",
+      "arrival_time": "04:10",
+      "carrier": "TK",
+      "stops": 1,
+      "price": 20000
+    },
+    {
+      "origin": null,
+      "origin_name": null,
+      "destination": null,
+      "destination_name": null,
+      "departure_date": null,
+      "departure_time": "04:10",
+      "arrival_date": "12.05.18",
+      "arrival_time": "23:50",
+      "carrier": "TK",
+      "stops": 1,
+      "price": 20000
+    },
+    {
+      "origin": "VVO",
+      "origin_name": "Владивосток",
+      "destination": "TLV",
+      "destination_name": "Тель-Авив",
+      "departure_date": "12.05.18",
+      "departure_time": "17:20",
+      "arrival_date": "12.05.18",
+      "arrival_time": "22:50",
+      "carrier": "S7",
+      "stops": 1,
+      "price": 13100
+    }
+  ]
+}
+
