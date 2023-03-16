@@ -1,4 +1,5 @@
-import org.example.TicketsStatistic;
+package org.example;
+
 import org.example.model.Ticket;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;

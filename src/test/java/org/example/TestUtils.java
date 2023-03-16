@@ -1,3 +1,5 @@
+package org.example;
+
 import org.example.model.ListOfTickets;
 import org.example.model.Ticket;
 

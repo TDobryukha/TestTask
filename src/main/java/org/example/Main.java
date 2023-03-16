@@ -3,7 +3,7 @@ package org.example;
 import org.example.model.ListOfTickets;
 import org.example.model.Ticket;
 
-import java.io.File;
+import java.io.IOException;
 import java.time.temporal.ChronoUnit;
 import java.util.OptionalDouble;
 import java.util.function.Predicate;
@@ -17,8 +17,8 @@ public class Main {
         ListOfTickets listOfTickets;
 
         try {
-            listOfTickets = TicketsLoader.load(new File("src/main/resources/tickets.json"));
-        } catch (Exception e) {
+            listOfTickets = TicketsLoader.load("/tickets.json");
+        } catch (IOException e) {
             e.printStackTrace();
             return;
         }
